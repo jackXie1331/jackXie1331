@@ -1,16 +1,16 @@
-## Hi， I am Jack Xie. 👋
+# 👋 Hi, I'm Jack Xie
 
-<!--
-**jackXie1331/jackXie1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an embedded engineer specializing in **industrial TFT LCD display solutions**.
 
-Here are some ideas to get you started:
+Currently working with [industrial-tft.com](https://industrial-tft.com/), a site focused on rugged, long-life display modules for factory and outdoor environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 **Read My Overview Article:**  
+➡️ [Industrial TFT Overview](https://industrial-tft.com/posts/industrial-tft-overview/)
+
+🔧 **Expertise Includes:**
+- MIPI/LVDS panel driver integration
+- Linux & Android device tree config
+- High-brightness, wide-temp display systems
+- Capacitive touch and bonding technologies
+
+Let's build resilient and reliable display products together.
